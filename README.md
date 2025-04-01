@@ -1,4 +1,4 @@
-# leetcode_target_sistema
+# LeetCode com a Target Sistema
 ## Respostas do Desafio postado na Gupy pela Targer Sistemas, usei python para eleboração das repostas
 
 
