@@ -1,5 +1,5 @@
 # leetcode_target_sistema
-Respostas do Desafio postado na Gupy pela Targer Sistemas, usei python para elebaoração das repostas
+## Respostas do Desafio postado na Gupy pela Targer Sistemas, usei python para eleboração das repostas
 
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
